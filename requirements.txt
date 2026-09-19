@@ -1,0 +1,8 @@
+langchain>=1.2.4
+langchain-ollama
+langchain-chroma
+langchain-community
+langgraph>=1.0.0
+chromadb
+pypdf
+streamlit
